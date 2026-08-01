@@ -6,6 +6,9 @@
   <img src="https://img.shields.io/badge/VERSION-1.0.0-green.svg" alt="version">
   <img src="https://img.shields.io/badge/MAINTAINED-Yes-blue.svg" alt="maintained">
   <img src="https://img.shields.io/badge/WRITTEN_IN-Python-blueviolet.svg" alt="python">
+  <br>
+  <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C-lightgrey.svg" alt="platform">
+  <img src="https://img.shields.io/badge/python-3.10%2B-blue.svg" alt="version">
 </p>
 
 # 👁️ SPY 
@@ -13,9 +16,6 @@
 > Please use this only on networks that you have permission on. I assume no liability for misuse.
 
 > A lightweight, high-performance CLI utility for local subnet ARP enumeration and socket inspection.
-
-![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C-lightgrey.svg)
 ---
 
 ## ❗ Note
