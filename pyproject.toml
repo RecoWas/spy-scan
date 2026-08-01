@@ -1,0 +1,19 @@
+[project]
+name = "spy"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "psutil>=7.2.2",
+    "rich>=15.0.0",
+    "scapy>=2.7.0",
+    "typer>=0.27.0",
+]
+
+[project.scripts]
+spy = "spy:app"
+
+[build-system]
+requires = ["uv_build>=0.12.0,<0.13.0"]
+build-backend = "uv_build"
