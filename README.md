@@ -54,9 +54,9 @@ Before installing, ensure your system meets the operational requirements for raw
 Clone the repository and register the global CLI executable or just download the Spy folder:
 
 ```bash
-git clone https://github.com/RecoWas/spy-scan.git
-cd Spy
-uv tool install .
+git clone https://github.com/RecoWas/spy-scan
+cd spy-scan
+pip install --editable .
 ```
 
 ## 💻 Usage for Windows (Admin required)
@@ -69,3 +69,7 @@ spy portspy
 ```bash
 sudo ~/.local/bin/spy arp 192.168.1.1/24
 ```
+
+## ❔ Contact
+* **Discord - wasthatrec**
+* **Email - maqakv@proton.me**
