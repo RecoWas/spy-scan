@@ -21,6 +21,7 @@
 ## ❗ Note
 *   **This is a project where i try to improve my python skills. If you find any bugs or have suggestions, Please report!**
 *   **Will add other commands/functions in the future**
+*   **Multiple Scan Types, Other kind of tools and etc. will be added**
 
 ---
 
